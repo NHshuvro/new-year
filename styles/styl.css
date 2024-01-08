@@ -1,0 +1,75 @@
+.banner{
+    background-image: url('../B9A1-New-Year-New-Mission/resources/Banner\ Image.png');
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+margin: 30px 50px;
+margin-right: 50px;
+text-align: center;
+
+}
+.a{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    padding-top: 60px;
+}
+.b{
+    color: #ffffff;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 70px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding:
+padding-bottom: 300px;
+}
+.of{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.off{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.offf{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.bac{
+    background-image: url('../B9A1-New-Year-New-Mission/resources/New\ Year\ Photo.png');
+
+    width: 800px;
+height: 500px;
+flex: shrink 0;
+margin: 100px 250px 100px;
+
+align-items: center;
+}
+.banb{
+    margin: 100px 280px 100px;
+}
